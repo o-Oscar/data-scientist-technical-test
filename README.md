@@ -1,5 +1,7 @@
 # data-scientist-technical-test
 
+This is my submission of this project. Please find the code in the notebook study.ipynb and the predicted data in data/auto-insurance-fall-2017/test_results.csv
+
 ## Data
 
 The aim of the project is to write a functional and structured code in python using a jupyter notebook.
